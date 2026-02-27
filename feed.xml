@@ -7,7 +7,7 @@
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <description>&lt;p&gt;BlockLayer Podcast is a series from the BlockLayer team, giving listeners rare, behind-the-scenes access to the founders building some of the most important companies in web3.&lt;/p&gt;&lt;p&gt;In long-form, unhurried conversations, we go beyond the headlines and into what it really takes to build: what first pulled them into crypto, what they shipped (and what broke), how they hired and scaled teams, the decisions that nearly killed the company — and the moves that ultimately made it work.&lt;/p&gt;&lt;p&gt;It’s the real story of building in web3: the wins, the chaos, and the lessons you won’t find in public threads.&lt;/p&gt;</description>
     <generator>RSS.com 2026.219.84950</generator>
-    <lastBuildDate>Sun, 24 Feb 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Feb 2026 12:00:00 GMT</lastBuildDate>
     <language>en</language>
     <itunes:image href="https://media.rss.com/blocklayer-podcast/20260222_100249_65844b5a30fe3ab6d83458842397c93f.png" />
     <podcast:guid>294c4ba6-2549-5591-aa2e-9e3443a41378</podcast:guid>
@@ -28,6 +28,23 @@
       <itunes:category text="Books" />
     </itunes:category>
     <podcast:medium>podcast</podcast:medium>
+     <item>
+      <title><![CDATA[Michael Heinrich | Founder of 0G Labs — Building the First Modular AI Chain]]></title>
+      <itunes:title><![CDATA[Michael Heinrich | Founder of 0G Labs — Building the First Modular AI Chain]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>Blocklayer Podcast</strong>, Kenzi Takahashi, Sachi Shiokava, and Diksha Desai sit down with Michael Heinrich, Founder of 0G Labs, to explore a bold thesis: the future of AI infrastructure may need its own modular, crypto-native stack.</p><p>Michael shares his unconventional journey — from high school boredom to building 0G Labs — and how practices like spiritual reading and meditation reshaped his leadership style as a founder. We talk about the less-discussed side of company-building: clarity, emotional regulation, and staying consistent when the market (and your own head) is volatile.</p><p>On the product side, we dive into what “the first modular AI chain” means in practice, why decentralized AI infrastructure is emerging as a category, and why Michael believes a community-owned approach is essential for the future of AI and data. 0G Labs is building a modular Web3 platform aimed at unlocking data infrastructure and storage for advanced AI workloads — connecting decentralized networks with tooling designed for machine-learning-native applications.</p><p>Expect a wide-ranging conversation on decentralized AI, community ownership, founder psychology, and what it takes to build at the frontier where crypto meets compute.</p><p>This episode was supported by Diksha Desai and Sachi Shiokava.</p>]]></description>
+      <link>https://rss.com/podcasts/blocklayer-podcast/2568635</link>
+      <enclosure url="https://content.rss.com/episodes/374381/2568635/blocklayer-podcast/2026_02_22_13_58_40_48cdd35e-bc9f-4c27-878b-766f14f4fca0.mp3" length="55284492" type="audio/mpeg"/>
+      <guid isPermaLink="false">d9f4619a-6809-4d5c-8b8a-aa90e4b48007</guid>
+      <itunes:duration>2993</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>10</itunes:episode>
+      <podcast:episode>10</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 27 Feb 2026 14:00:22 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/blocklayer-podcast/ep_cover_20260223_110216_655f56d9a41b140d46604403ea4fb3d0.png"/>
+    </item>
     <item>
       <title><![CDATA[Ron Bodkin | CEO & Co-Founder of Theoriq — Understanding Agent Collectives in AI]]></title>
       <itunes:title><![CDATA[Ron Bodkin | CEO & Co-Founder of Theoriq — Understanding Agent Collectives in AI]]></itunes:title>
